@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+*{
+   background: #333;
+}
+input, textarea{
+    background-color: #fff;
+}
